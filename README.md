@@ -1,3 +1,4 @@
 # DC_DC_Buck_Boost_Converter
 
-Please find the project report in the "DC DC Buck Boost Converter Report.pdf" file.
+The Project report is attached with the file name "DC DC Buck Boost Converter Report.pdf".
+Also, please find the MATLAB simulation file named "DC_DC_Buck_Boost_Converter.slx".
